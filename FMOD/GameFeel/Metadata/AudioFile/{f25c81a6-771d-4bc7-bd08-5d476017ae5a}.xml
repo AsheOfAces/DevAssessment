@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{f25c81a6-771d-4bc7-bd08-5d476017ae5a}">
+		<property name="assetPath">
+			<value>Nukesplosion.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>10.021625</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{73c1aa7b-9c0c-468f-a114-4c5f94786c7f}</destination>
+		</relationship>
+	</object>
+</objects>
